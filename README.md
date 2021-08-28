@@ -6,6 +6,8 @@ Izmēģināt Git ar Gundegu
 - iedzert kafiju
 - noklausīties lekciju
 - vēl kaut ko padarīt
+- [ ] 123
+- [ ] 1234
 
 ## Braukt uz tomātu svētkiem vai tirdziņu
 
