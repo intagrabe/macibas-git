@@ -1,4 +1,6 @@
 # Valmieras kursu apskats
+lapu vari skatīte te: https://intagrabe.github.io/macibas-git/
+
 Izmēģināt Git ar Gundegu
 
 ## Dienas plāns
